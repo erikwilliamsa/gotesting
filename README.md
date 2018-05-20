@@ -1,4 +1,4 @@
-#Go Unit and Integration Test Seperation
+# Go Unit and Integration Test Separation
 
 ### Option 1: Integration and Unit tests in the Same File
 
